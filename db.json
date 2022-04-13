@@ -7,36 +7,131 @@
                 {
                     "id":"d1",
                     "name":"doctor1",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                    "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d2",
                     "name":"doctor2",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d3",
                     "name":"doctor3",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d4",
                     "name":"doctor4",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d5",
                     "name":"doctor5",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 }
             ]
@@ -48,36 +143,131 @@
                 {
                     "id":"d1",
                     "name":"doctor1",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d2",
                     "name":"doctor2",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d3",
                     "name":"doctor3",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d4",
                     "name":"doctor4",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d5",
                     "name":"doctor5",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 }
             ]
@@ -89,36 +279,131 @@
                 {
                     "id":"d1",
                     "name":"doctor1",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d2",
                     "name":"doctor2",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d3",
                     "name":"doctor3",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d4",
                     "name":"doctor4",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 },
                 {
                     "id":"d5",
                     "name":"doctor5",
-                    "time":[
-                        "4:00","4:20","4:40","5:00"
+                     "avivility":[
+                        {
+                            "time":"4:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:20",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"4:40",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:00",
+                            "ststus":"false"
+                        },
+                        {
+                            "time":"5:20",
+                            "ststus":"false"
+                        }
                     ]
                 }
             ]
