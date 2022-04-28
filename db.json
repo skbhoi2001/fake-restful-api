@@ -18,6 +18,25 @@
                    "value":"Start new app"
                }
             ]
+        },
+        {   
+            "cid":"2",
+            "rule":"Default2 rule",
+            "button_name":"Create2 PO",
+            "conditions":[
+                {
+                    "condid":"2c",
+                    "value":"2text",
+                    "contains":"2texts",
+                    "data":"2data"
+                }
+            ],
+            "actions":[
+               {
+                   "aid":"2a",
+                   "value":"2Start new app"
+               }
+            ]
         }
     ]
 }
