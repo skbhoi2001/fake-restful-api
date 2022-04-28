@@ -1,12 +1,12 @@
 {
     "content":[
         {   
-            "id":"1",
+            "cid":"1",
             "rule":"Default rule",
             "button_name":"Create PO",
             "conditions":[
                 {
-                    "id":"1c",
+                    "condid":"1c",
                     "value":"text",
                     "contains":"texts",
                     "data":"data"
@@ -14,7 +14,7 @@
             ],
             "actions":[
                {
-                   "id":"1a",
+                   "aid":"1a",
                    "value":"Start new app"
                }
             ]
