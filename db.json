@@ -3,40 +3,37 @@
         {   
             "id":"1",
             "rule":"Default rule",
-            "button_name":"Create PO",
-            "conditions":[
-                {
-                    "condid":"1c",
-                    "value":"text",
-                    "contains":"texts",
-                    "data":"data"
-                }
-            ],
-            "actions":[
-               {
-                   "aid":"1a",
-                   "value":"Start new app"
-               }
-            ]
+            "button_name":"Create PO"
+            
         },
         {   
             "id":"2",
             "rule":"Default2 rule",
-            "button_name":"Create2 PO",
-            "conditions":[
-                {
-                    "condid":"2c",
-                    "value":"2text",
-                    "contains":"2texts",
-                    "data":"2data"
-                }
-            ],
-            "actions":[
-               {
-                   "aid":"2a",
-                   "value":"2Start new app"
-               }
-            ]
+            "button_name":"Create2 PO"
         }
+    ],
+    "conditions":[
+        {
+            "id":"1",
+            "value":"text",
+            "contains":"texts",
+            "data":"data"
+        },
+        {
+            "id":"2",
+            "value":"2text",
+            "contains":"2texts",
+            "data":"2data"
+        }
+    ],
+    "actions":[
+       {
+           "id":"1",
+           "value":"Start new app"
+       },
+       {
+        "id":"2",
+        "value":"2Start new app"
+    }
     ]
 }
