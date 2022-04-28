@@ -1,7 +1,7 @@
 {
     "content":[
         {   
-            "cid":"1",
+            "id":"1",
             "rule":"Default rule",
             "button_name":"Create PO",
             "conditions":[
@@ -20,7 +20,7 @@
             ]
         },
         {   
-            "cid":"2",
+            "id":"2",
             "rule":"Default2 rule",
             "button_name":"Create2 PO",
             "conditions":[
